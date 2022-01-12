@@ -5,9 +5,9 @@ Also, It is mandatory to add webhook api to twilio console.
 
 You will need to add below variables to env file
 
-HOST
-PORT
-TWILIO_PHONE_NUMBER
+HOST,
+PORT,
+TWILIO_PHONE_NUMBER,
 TWILIO_ACCOUNT_SID
 
 You can find 4 server file:
